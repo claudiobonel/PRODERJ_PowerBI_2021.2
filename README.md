@@ -1,4 +1,6 @@
 # PRODERJ_PowerBI_2021.2
+# Prof. Me. Claudio Bonel
+
 Treinamento Power BI - 12 horas
 
 Faaaalaaaa aluno/a! Tudo bem com vc?
